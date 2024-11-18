@@ -81,13 +81,8 @@ This project is perfect for learning how to:
     npm start
 
 ## API Documentation
-### Albums Endpoints
-Method === Endpoint === Description
-GET === /albums === Retrieve all albums
-GET	=== /albums/{id} === Retrieve an album by its ID
-POST === /albums === Add a new album
-PUT === /albums/{id} === Update album details
-DELETE === /albums/{id}	=== Delete an album
+Below is a summary of the API endpoints:
+![image](https://github.com/user-attachments/assets/3b57a3e2-132a-4ddc-849c-c2d4321314f4)
 
 --- 
 
